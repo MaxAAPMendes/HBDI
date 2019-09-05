@@ -1,0 +1,187 @@
+.headerquest{
+
+	height: 60px;
+	color: white;
+	font-weight: bold !important;
+
+
+}
+
+#defaultlogo{
+	font-weight: 500;
+	/*font-weight: bold;*/
+	color: #ffe484;
+	border-color: #ffe484;
+	border: 1px solid #ffe484;
+	padding: 2px 6px 2px 6px;
+	border-radius: 5px;
+
+
+}
+
+h2.font{
+	font-weight: bold;
+}
+
+.topo{
+	margin-top: 50px !important;
+	padding-top: 50px;
+	
+}
+
+main>div>h1, h3{
+	text-align: center;
+}
+
+#labelheader{
+	margin-top: 5px;
+}
+
+#writeId{
+	width: 100% !important;
+	align-items: center; !important;
+	text-align: center; !important;
+	align-content: center; !important;
+	margin-left: 5px
+}
+
+div>h4>span{
+	font-weight: bold;
+}
+
+#btnEnviar{
+	
+	font-weight: bold;
+
+}
+
+.NewFooter{
+	width: 100%;
+	height: 45px;
+	color: #ffe484;
+	background-color: #343a40;
+	margin-top: 10px;
+	padding-left: 5%;
+	padding-top: 10px;
+
+
+}
+
+.workitbtnsend{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	/*float: right;*/
+	
+}
+
+#firsQuestion{
+	margin-top: 20px;
+}
+
+.labelId{
+	color: gray;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+.viewinput{
+	display: none !important;
+}
+
+/*using in consult_result*****************************************************************************/
+.headerId{
+	margin-top: 20px;
+}
+
+#btn_consult_result{
+	font-weight: bold;
+}
+
+.DivViewResult{
+	margin-top: 30px;
+	padding-top: 20px; 
+}
+
+#img_view_hbdi{
+	/*background-image: url('img/hbdiXnew.png');*/
+	margin-top: 10px;
+
+
+}
+
+.hbdiXnew{
+	/*size: 100%;*/
+	height: 100%;
+	width: 100%;
+}
+
+#title_result{
+	color: #009ACD;
+	text-align: center;
+	font-weight: bold;
+}
+
+.color_blue{
+	color: #007bff !important;
+}
+
+#Id_div_result{
+	/*visibility: hidden;*/
+}
+
+#text_top_left{
+	position: relative;
+	left: 50px;
+	top: 30px;
+	color: #69D2E7;
+	font-weight: bold;
+	font-size: 50px;
+
+}
+
+#text_top_right{
+	position: relative;
+	right: 60px;
+	top: 30px;
+	color: #F8CA00;
+	font-weight: bold;
+	font-size: 50px;
+	float: right;
+}
+
+#text_bottom_left{
+	position: relative;
+	left: 50px;
+	bottom: 3em;
+	color: #9DE0AD;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#text_bottom_right{
+	position: relative;
+	right: 60px;
+	bottom: 3em;
+	color: #C02942;
+	font-weight: bold;
+	font-size: 50px;
+	float: right;
+
+}
+
+#name_span{
+	font-size: 20px;
+}
+
+#manage_span{
+	font-size: 20px;
+}
+
+/*INÍCIO ENQUETES===================================================*/
+
+.fieldset_item{
+	display: none;
+}
+
+/*FIM ENQUETES===================================================*/
